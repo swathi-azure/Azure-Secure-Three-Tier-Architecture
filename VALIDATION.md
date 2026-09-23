@@ -178,7 +178,7 @@ Paid Defender CSPM features were not enabled because the project was designed wi
 | Azure Firewall | Not deployed / not integrated |
 
 ### 12. Evidence
-
+[View All Evidence Screenshots](evidence/)
 The following evidence was captured during project validation:
 
 1. Resource Group / Azure deployment
