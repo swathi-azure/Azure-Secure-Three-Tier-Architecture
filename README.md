@@ -11,7 +11,7 @@ The architecture separates workloads into Web, Application, and Data tiers and a
 ---
 
 ## Architecture
-[View Architecture Diagram](architecture/File_0000000ACD482078386)
+[View Architecture Diagram](architecture/file_00000000acd4820783867d766573ba31.png)
 The implemented traffic flow is:
 
 Internet → Application Gateway (WAF_v2) → Web VM (NGINX) → Internal Load Balancer → App VM → SQL Private Endpoint → Azure SQL Database
